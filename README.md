@@ -15,12 +15,9 @@
 ### Connect with me:
 
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC_QDL3qzaOpHEPTbgF5VCPA)
-
-[![website](./img/twitter-dark.svg)](https://twitter.com/artmlwe)
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakyavara-artomily-4296731b3/)
-
-[![website](./img/instagram-dark.svg)](https://instagram.com/artomily)
+ [![website](./img/twitter-dark.svg)](https://twitter.com/artmlwe)
+ [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakyavara-artomily-4296731b3/)
+ [![website](./img/instagram-dark.svg)](https://instagram.com/artomily)
 
 ### Languages and Tools:
 
