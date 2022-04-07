@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: learn more about design
+- 📧 ask me about everything 
 - ⚡ Fun fact: I love to take photos
 
 ### Connect with me:
