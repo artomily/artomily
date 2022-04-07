@@ -53,7 +53,7 @@
 
 [website]: https://instagram.com/artomily
 [twitter]: https://twitter.com/artmlwe
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC_QDL3qzaOpHEPTbgF5VCPA
 [instagram]: https://instagram.com/artomily
 [linkedin]: https://www.linkedin.com/in/rakyavara-artomily-4296731b3/
 
