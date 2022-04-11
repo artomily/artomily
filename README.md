@@ -8,7 +8,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other 
 - 🥅 2022 Goals: learn more about design
 - 📧 ask me about everything 
 - ⚡ Fun fact: I love to take photos
