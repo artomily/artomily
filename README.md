@@ -1,4 +1,4 @@
-# Hi there, I'm [milymax][instagram] 👋 
+# Hi there, I'm [milymax][] 👋 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website) -->
@@ -18,7 +18,7 @@
 [![website](./img/youtube-dark.svg)]()
 [![website](./img/twitter-dark.svg)]()
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakyavara-artomily-4296731b3/)
-[![website](./img/instagram-dark.svg)](https://instagram.com/artomily)
+[![website](./img/instagram-dark.svg)](https://instagram.com/)
 
 ### Languages and Tools:
 
@@ -38,9 +38,9 @@
 
 ---
 
-[website]: https://instagram.com/artomily
+[website]: https://instagram.com/
 [twitter]: 
 [youtube]: 
-[instagram]: https://instagram.com/artomily
+[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/rakyavara-artomily-4296731b3/
 
