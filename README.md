@@ -36,7 +36,11 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&show_icons=true&theme=github_dark)
+<div align="center"> 
+  <a href="https://github.com/milymax">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milymax&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+</div>
 
 ---
 
