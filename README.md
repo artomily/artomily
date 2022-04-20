@@ -1,4 +1,4 @@
-# Hi there, I'm [milymax][] 👋 
+# Hi there, I'm [milymax] 👋 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website) -->
@@ -35,6 +35,8 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&show_icons=true&theme=github_dark)
 
 ---
 
