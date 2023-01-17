@@ -8,9 +8,9 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to ...
+- 👯 I’m looking to freelance job
 - 🥅 2022 Goals: learn more about design
-- 📧 ask me about everything 
+- 📧 ask me about web programming & design
 - ⚡ Fun fact: I love to take photos
 
 ### Connect with me:
