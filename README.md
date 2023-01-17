@@ -19,7 +19,7 @@
 <!-- [![website](./img/twitter-dark.svg)]() -->
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakyavara-artomily-4296731b3/)
 [![website](./img/instagram-dark.svg)](https://instagram.com/artomily)
-[![website](./img/behance-dark.svg)](https://www.behance.net/artomily)
+<!-- [![website](./img/behance-dark.svg)](https://www.behance.net/artomily) -->
 
 ### Languages and Tools:
 
