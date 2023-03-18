@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to freelance job
-- 🥅 2022 Goals: learn more about design
+- 🥅 2023 Goals : Learn more about programming
 - 📧 ask me about web programming & design
 - ⚡ Fun fact: I love to take photos
 
