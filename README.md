@@ -3,6 +3,7 @@
 # ♟ About Me:
 - 🔭 I’m currently focused on Web development & Design<br>- 🌱 I’m currently learning **Laravel**<br>- 👯 I’m looking to collaborate on Web Project<br>- 👨‍💻 All of my projects are available at <br>- 📫 How to reach me **vararakya@gmail.com**<br>- ⚡ Fun fact i love to take photos, traveling, and learn new things
 
+[![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]
@@ -16,12 +17,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=milymax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milymax&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -30,6 +29,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=milymax&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
