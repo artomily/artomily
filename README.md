@@ -1,3 +1,26 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
+
+---
+[![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<table align = 'center'>
+   <tr>
+    <td>
+- 🔭 I’m currently focused on Web Deveopment & Design
+
+- 🌱 I’m currently learning **Laravel**
+
+- 👯 I’m looking to collaborate on Web Project
+
+- 👨‍💻 All of my projects are available at 
+
+- 📫 How to reach me **vararakya@gmail.com**
+
+- ⚡ Fun fact i love to take photos, travelling, and learn new things
+  </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)][![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]
@@ -9,8 +32,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milymax&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=milymax&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=milymax&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=artmlwe)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -21,7 +44,6 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
