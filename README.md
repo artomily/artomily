@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1>
 
+
 # ♟ About Me:
 - 🔭 I’m currently focused on Web development & Design<br>- 🌱 I’m currently learning **Laravel**<br>- 👯 I’m looking to collaborate on Web Project<br>- 👨‍💻 All of my projects are available at <br>- 📫 How to reach me **vararakya@gmail.com**<br>- ⚡ Fun fact i love to take photos, traveling, and learn new things
 
@@ -19,15 +20,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milymax&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=milymax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=milymax&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
