@@ -2,7 +2,8 @@
 
 
 # ♟ About Me:
-- 🔭 I’m currently focused on Web development & Design<br>- 🌱 I’m currently learning **Laravel**<br>- 👯 I’m looking to collaborate on Web Project<br>- 👨‍💻 All of my projects are available at <br>- 📫 How to reach me **vararakya@gmail.com**<br>- ⚡ Fun fact i love to take photos, traveling, and learn new things
+
+-🔭 I’m currently focused on Web development & Design<br>-🌱I’m currently learning **Laravel**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact i love to take photos, traveling, and learn new things
 
 [![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
 
