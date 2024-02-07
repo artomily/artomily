@@ -43,8 +43,9 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 <!-- ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) -->
 
-[![](https://visitcount.itsvg.in/api?id=milymax&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✨ Profile Views:
 [![](https://visitcount.itsvg.in/api?id=milymax&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
+
 
