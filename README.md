@@ -1,5 +1,7 @@
 <div align="center">
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1>
+  
+<!-- <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1> -->
+  
 [![Hello World, I'm Milymax!](assets/header.gif)](https://github.com/milymax)
 Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/) on [Pinterest](https://www.pinterest.com/).
 
