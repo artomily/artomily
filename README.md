@@ -7,7 +7,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 
 ## 🌐 Socials:
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/orangexstray) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakaalts) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rakyavara-artomily) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vararakya@gmail.com?subject=Hello%20Artomily,%20From%20Github)
 
