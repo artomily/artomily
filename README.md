@@ -2,7 +2,7 @@
   
 <!-- <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1> -->
   
-[![Hello World, I'm Milymax!](assets/header.gif)](https://github.com/milymax)
+[![Hello World, I'm Milymax!](assets/header.gif)](https://github.com/artomily)
 Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/) on [Pinterest](https://www.pinterest.com/).
 
 ## 🌐 Socials:
@@ -36,8 +36,8 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milymax&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artomily&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artomily&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 🎮 When I'm AFK:
@@ -48,7 +48,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 <!-- ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) -->
 
 <!-- ## ✨ Profile Views: -->
-[![](https://visitcount.itsvg.in/api?id=milymax&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=artomily&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
