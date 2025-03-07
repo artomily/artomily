@@ -17,7 +17,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
   
 ## ♟ About Me:
 
--🔭 I’m currently focused on Web development & Design<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
+-🔭 I’m currently focused on Web development<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
 
 <div align="center">
   
