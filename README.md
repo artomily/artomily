@@ -7,7 +7,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 
 ## 🌐 Socials:
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakaalts) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/artomily) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rakyavara-artomily) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vararakya@gmail.com?subject=Hello%20Artomily,%20From%20Github)
 
@@ -17,7 +17,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
   
 ## ♟ About Me:
 
--🔭 I’m currently focused on Web development<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
+-🔭 I’m currently focused on Web development<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at https://artomily.vercel.app/ <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
 
 <div align="center">
   
@@ -42,7 +42,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 
 ## 🎮 When I'm AFK:
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+<!-- ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp; -->
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 <!-- ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) -->
