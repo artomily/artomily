@@ -5,11 +5,11 @@
 [![Hello World, I'm Milymax!](assets/header.gif)](https://github.com/artomily)
 Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/) on [Pinterest](https://www.pinterest.com/).
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/artomily) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rakyavara-artomily) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vararakya@gmail.com?subject=Hello%20Artomily,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vararakya@gmail.com?subject=Hello%20Artomily,%20From%20Github) -->
 
 </div>
 
