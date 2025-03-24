@@ -25,7 +25,7 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
-[![React.js, Vue.js, Node.js, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=react,vue,nodejs,js,tailwind)](https://skillicons.dev)
+[![React.js, Vue.js, Node.js, JavaScript, HTML, CSS, Laravel](https://skillicons.dev/icons?i=react,vue,nodejs,js,tailwind,laravel)](https://skillicons.dev)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=milymax&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
