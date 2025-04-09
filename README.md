@@ -20,9 +20,6 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 -🔭 I’m currently focused on Web development<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at https://artomily.site <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
 
 <div align="center">
-  
-## 💡 A Quote:
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 [![React.js, Vue.js, Node.js, JavaScript, HTML, CSS, Laravel](https://skillicons.dev/icons?i=react,vue,nodejs,js,tailwind,laravel)](https://skillicons.dev)
@@ -40,12 +37,9 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artomily&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## 🎮 When I'm AFK:
-![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-<!-- ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp; -->
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-<!-- ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) -->
+## 💡 A Quote:
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 
