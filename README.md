@@ -39,8 +39,8 @@ Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/)
 
 ## 💡 A Quote:
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<!-- [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
+![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <p>____________</p>
 
 </div>
