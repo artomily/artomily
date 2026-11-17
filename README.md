@@ -69,11 +69,22 @@ Docker · Linux VPS · CI/CD · Neon · Vercel
 ### GitHub Analytics
 
 
+
+### GitHub Analytics
+
 <div align="center">
 
-<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
