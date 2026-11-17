@@ -68,30 +68,31 @@ Docker · Linux VPS · CI/CD · Neon · Vercel
 
 ### GitHub Analytics
 
-
-
-### GitHub Analytics
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="./profile/stats.svg"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="./profile/top-langs.svg"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img
-  src="./profile/stats.svg"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=artomily&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=artomily&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="80%"
+  />
 </div>
 
 ---
