@@ -30,7 +30,7 @@ I focus on building systems that are reliable, deterministic, and designed to so
 
 | Project | What it does | Technology |
 |:---|:---|:---|
-| **[Tahansoe](https://github.com/sewunodetech/tahansoe)** | Non-custodial liquidation protection for Aave V3 borrowers on Arbitrum. Deterministic risk engine, Safe module execution, and live Health Factor simulation. | Next.js · TypeScript · Solidity · viem · PostgreSQL |
+| **[Tekosue](https://github.com/sewunodetech/tekosue)** | Cross-border payment infrastructure with automated expense splitting and shared payments. | Payment Infrastructure · Web3 · TypeScript · Smart Contracts |
 | **Jatah AI** | x402 payment layer for AI models. Pay-per-request access with hard budget caps and time-based passes. | Node.js · x402 · API Infrastructure |
 | **xFlame** | Stellar/Soroban auto-split vault with email-based onboarding and seedless user experience. | Soroban · React · Stellar |
 | **Webkitin** | Product engineering studio focused on building digital products and scalable software systems. | Next.js · TypeScript · Framer Motion |
@@ -39,7 +39,7 @@ I focus on building systems that are reliable, deterministic, and designed to so
 
 ### Proof of Work
 
-- 🏆 **Winner** — Base Onchain Hackathon ($10K prize pool).
+- 🏆 **Winner** — Base Onchain Summer Hackathon
 - 🌏 **Selected Founder** — Arbitrum Founder House, Singapore 2026 (1 of 120).
 - 🌟 **Grant Recipient** — Stellar Community Fund.
 - 🥈 **Finalist** — MetaMask Dev Cook Off.
