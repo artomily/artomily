@@ -2,6 +2,11 @@
 name: Update GitHub Stats
 
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/stats.yml"
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -37,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "chore: update GitHub stats" || exit 0
+          git add profile/stats.svg profile/top-langs.svg
+          git commit -m "Update GitHub stats" || exit 0
           git push
