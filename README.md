@@ -1,48 +1,101 @@
-<div align="center">
-  
-<!-- <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milymax</h1> -->
-  
+ <div align="center">
+
 [![Hello World, I'm Milymax!](assets/header.gif)](https://github.com/artomily)
+
 Background GIF by [ArtStation](https://id.pinterest.com/pin/474989091961400056/) on [Pinterest](https://www.pinterest.com/).
 
-<!-- ## 🌐 Socials:
+# Rakyavara Artomily
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/artomily) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rakyavara-artomily) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vararakya@gmail.com?subject=Hello%20Artomily,%20From%20Github) -->
+**Backend & Web3 Engineer**
+
+*Payment Rails · Risk Automation · AI Agents*
+
+<br/>
+
+[![Base Onchain](https://img.shields.io/badge/Winner-Base_Onchain-0052FF?style=flat-square)](https://base.org)
+[![Arbitrum](https://img.shields.io/badge/Founder_House_Singapore_2026-28A0F0?style=flat-square)](https://arbitrum.io)
+[![Stellar](https://img.shields.io/badge/Stellar_Builder_Grant-7D00FF?style=flat-square)](https://stellar.org)
+
+[Portfolio](https://artomily.my.id) · [LinkedIn](https://www.linkedin.com/in/rakyavara-artomily) · [X](https://x.com/rakaalts) · [Email](mailto:hello@artomily.my.id)
 
 </div>
 
-<div align"center">
-  
-## ♟ About Me:
+---
 
--🔭 I’m currently focused on Web development<br>-🌱I’m currently learning **Frontend Tech Stack**<br>-👯I’m looking to collaborate on Web Project<br>-👨‍💻All of my projects are available at https://artomily.my.id <br>-📫 How to reach me **vararakya@gmail.com**<br>-⚡Fun fact I love to take photos, traveling, and learn new things
+### What I Actually Build
+
+I engineer production systems end to end — from backend architecture and payment infrastructure to autonomous agents and onchain financial automation.
+
+I focus on building systems that are reliable, deterministic, and designed to solve real-world problems.
+
+| Project | What it does | Technology |
+|:---|:---|:---|
+| **[Tahansoe](https://github.com/sewunodetech/tahansoe)** | Non-custodial liquidation protection for Aave V3 borrowers on Arbitrum. Deterministic risk engine, Safe module execution, and live Health Factor simulation. | Next.js · TypeScript · Solidity · viem · PostgreSQL |
+| **Jatah AI** | x402 payment layer for AI models. Pay-per-request access with hard budget caps and time-based passes. | Node.js · x402 · API Infrastructure |
+| **xFlame** | Stellar/Soroban auto-split vault with email-based onboarding and seedless user experience. | Soroban · React · Stellar |
+| **Webkitin** | Product engineering studio focused on building digital products and scalable software systems. | Next.js · TypeScript · Framer Motion |
+
+---
+
+### Proof of Work
+
+- 🏆 **Winner** — Base Onchain Hackathon ($10K prize pool).
+- 🌏 **Selected Founder** — Arbitrum Founder House, Singapore 2026 (1 of 120).
+- 🌟 **Grant Recipient** — Stellar Community Fund.
+- 🥈 **Finalist** — MetaMask Dev Cook Off.
+
+---
+
+### Engineering Stack
+
+**Backend**
+<br/>
+Node.js · TypeScript · Python · FastAPI · PostgreSQL · Redis
+
+**Frontend**
+<br/>
+Next.js · React · Tailwind CSS
+
+**Web3 & Payments**
+<br/>
+Solidity · Soroban · viem · wagmi · Safe Modules · x402
+
+**Infrastructure**
+<br/>
+Docker · Linux VPS · CI/CD · Neon · Vercel
+
+---
+
+### GitHub Analytics
 
 <div align="center">
 
-## 💻 My Tech Stack:
-[![React.js, Vue.js, Node.js, JavaScript, HTML, CSS, Laravel](https://skillicons.dev/icons?i=react,vue,nodejs,js,tailwind,laravel)](https://skillicons.dev)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=artomily&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=milymax&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=milymax&theme=highcontrast&hide_border=true)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milymax&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artomily&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
 
-## 🏆 My Stats:
+<br/>
 
-<p>
-    <!-- <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artomily&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp; -->
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artomily&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
-## 💡 A Quote:
-
-<!-- [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
-![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<p>____________</p>
+<img src="https://streak-stats.demolab.com?user=artomily&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
+---
 
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/artomily/artomily/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building from Indonesia. Engineering for the world.*
+
+**Ship systems. Solve problems. Keep building.**
+
+</div>
