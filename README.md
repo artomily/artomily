@@ -68,11 +68,14 @@ Docker · Linux VPS · CI/CD · Neon · Vercel
 
 ### GitHub Analytics
 
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=artomily&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artomily&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+
+</div>
 
 <br/>
 
